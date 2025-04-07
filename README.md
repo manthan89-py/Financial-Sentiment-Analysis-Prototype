@@ -104,7 +104,7 @@ Key features:
    ```bash
    uv pip install -r requirements.txt
    ```
-4. Create a `.env` file with your AlphaVantage API key:
+4. Create a `.env` file with your AlphaVantage API key. If you don't have API key generate from here -> https://www.alphavantage.co/:
    ```
    NEWS_API_KEY=your_api_key_here
    ```
